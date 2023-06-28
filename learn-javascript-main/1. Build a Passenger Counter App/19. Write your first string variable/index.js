@@ -1,4 +1,6 @@
-let username = 'per"
+let username = "Aloni!";
+let newMessage = "You have Three new Notifications, ";
+// console.log(newMessage + ", " + username + "!");
 
-console.log(username)
-
+let messageToUser = newMessage + username;
+console.log(messageToUser);
