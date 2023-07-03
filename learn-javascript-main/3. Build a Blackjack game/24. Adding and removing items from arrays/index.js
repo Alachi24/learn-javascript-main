@@ -16,5 +16,5 @@ messages.push(newMessage);
 
 console.log(messages);
 
-// push--- to add the last part of the array
+// push--- to add to the last part of the array
 // pop--- to remove from the last part of the array
