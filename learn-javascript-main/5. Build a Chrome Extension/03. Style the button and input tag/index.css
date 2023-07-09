@@ -16,13 +16,17 @@ input {
   width: 100%;
   padding-left: 10px;
   padding-right: 10px;
+  padding-bottom: 10px;
+  padding-top: 10px;
   box-sizing: border-box;
+  border: 1px solid #5f9341;
 }
 
 button {
-  background-color: green;
+  background-color: #5f9341;
   color: white;
   font-weight: bold;
   padding: 10px 20px;
   margin-top: 5px;
+  border: none;
 }
